@@ -13,6 +13,6 @@ spec:
       autoscaling.knative.dev/minScale: "1"
   source:
     git:
-      url: https://github.com/VikyaSurve/application-accelerator-samples.git
+      url: https://github.com/VikyaSurve/application-accelerator-samples/tanzu-java-web-app.git
       ref:
         branch: main
